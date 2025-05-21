@@ -12,5 +12,10 @@
 
 1. Git Clone 项目
 ```sh
-这部分明天写，欸嘿
+git clone --depth=1 https://github.com/XJmelove/Yunzai-JS plugins/Yunzai-JS
+```
+
+2. 安装依赖
+```sh
+pnpm install -P
 ```
